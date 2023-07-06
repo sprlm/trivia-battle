@@ -1,1 +1,5 @@
 # trivia-battle
+
+Trivia Battle is a game made in Java that allowed players to pick a subject out of four possible choices and engage in a 1v1 battle where each player would take turns answeing questions. If they were to get a question wrong, they would lose a life until their life bar reaches 0, in which case they would have lost. 
+
+This project was submitted as a requirement for university and aimed to make use of the various pillars of OOP. One example of this that can be found in the program is regarding encapsulation, where similar, specific methods are included in a single class. Another example is abstraction, where the code contains an interface entitled IQuestion, which is then implemented by other classes in the program. This also showcases polymorphism due to the the question class taking up different forms. Some particular notable features are randomly generated numbers for questions involving mathematics such as in the Physics category or the GUI created using the JavaFX library.
